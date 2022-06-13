@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Esteban
 - 👀 I’m currently learning java/reactjs/php/c#
 - 📫 How to reach me rautureauesteban@gmail.com
+
+```
  _____________________
 / ,-----------------. \
 | |           713705| |
@@ -14,4 +16,4 @@
 | [1] [2] [3] [+] [-] |
 |                     |
 | [0] [.]  [EXP]  [=] |
-\_____________________/
+\_____________________/ ```
