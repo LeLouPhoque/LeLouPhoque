@@ -2,6 +2,7 @@
 - 👀 I’m currently learning java/reactjs/php/c#
 - 📫 How to reach me rautureauesteban@gmail.com
 
+"
              ,----------------,              ,---------,
         ,-----------------------,          ,"        ,"|
       ,"                      ,"|        ,"        ,"  |
@@ -20,3 +21,4 @@
  / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
 /_==__==========__==_ooo__ooo=_/'   /___________,"
 `-----------------------------'
+"
